@@ -12,6 +12,7 @@ Parser for standard NMEA 0183 location messages, focused on use cases involving 
 - Fix and Connected Sats broken out into uint32 status value
 - Easy modification to strip print features and just use as inline functions or convert to general use library
 - string -> uint32_t conversion functions that are very portable
+- DD MM.MM -> DDD.DDDDDD and DD MM.MM -> (uint32) deg, (uint32) whole min, (uint32) fractional min
 
 # Unfinished Features
 - Fixed Point Support (working on it slowly)
