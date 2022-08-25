@@ -1,5 +1,5 @@
 # RP2040_M6N_parser
-Parser for standard NMEA 0183 messages, focused on use cases involving the RP2040
+Parser for standard NMEA 0183 location messages, focused on use cases involving the RP2040
 
 # Hardware Connections
 - UART1 Utilized to communicate with the NEO-M6N/other GPS module
